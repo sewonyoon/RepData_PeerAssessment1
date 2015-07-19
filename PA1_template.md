@@ -17,6 +17,7 @@ head(activity)
 ## 6    NA 2012-10-01       25
 ```
 
+
 ##What is mean total number of steps taken per day?
 
 Data will be arrgregated by date, and will be plotted on histogram
